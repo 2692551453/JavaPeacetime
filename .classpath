@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_102"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/java/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
